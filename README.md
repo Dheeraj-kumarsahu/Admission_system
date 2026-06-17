@@ -9,7 +9,6 @@ Educational institutions face significant challenges in managing voluminous data
 ### 🚀 Features
 
 *   **Student Profile Management**: Create, update, and maintain detailed student records.
-*   **Attendance Tracker**: Record daily or lecture-wise attendance with ease.
 *   **Grading & Assessment**: Input marks, calculate averages, and generate report cards.
 *   **Course & Class Scheduling**: Manage curriculum, time tables, and faculty assignments.
 *   **Search & Filter**: Quickly find student records using unique IDs, names, or courses.
@@ -54,7 +53,10 @@ Educational institutions face significant challenges in managing voluminous data
         
     
     Use code with caution.
-    
+
+5. **Add the database :**
+    as per the given database structure
+
 4.  **Run the application:**
     
     bash
@@ -67,7 +69,8 @@ Educational institutions face significant challenges in managing voluminous data
         
     
     Use code with caution.
-    
+
+
 
 ### 👥 Author
 

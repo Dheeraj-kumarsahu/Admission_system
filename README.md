@@ -17,7 +17,7 @@ Educational institutions face significant challenges in managing voluminous data
 
 *(Tip: Customize this section based on the technologies you used)*
 
-*   **Frontend**: HTML5, CSS3, JavaScript / React
+*   **Frontend**: HTML, CSS3, JavaScript / React
 *   **Backend**: Python (Django/Flask) / Node.js / Java
 *   **Database**: MySQL / PostgreSQL / MongoDB
 
